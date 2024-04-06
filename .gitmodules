@@ -1,4 +1,4 @@
 [submodule "script"]
 	path = script
-	url = https://github.com/yoyoyosunyo/belajar-git-submodule.git
+	url = git@github.com:yoyoyosunyo/belajar-git-submodule.git
 	branch = release
